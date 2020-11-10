@@ -1,2 +1,5 @@
 .config/*
 *.pyc
+metadata.json
+launch.json
+go.mod
